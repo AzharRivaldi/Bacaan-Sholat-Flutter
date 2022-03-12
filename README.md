@@ -1,4 +1,5 @@
 ## Membuat Aplikasi Bacaan Sholat dengan Flutter
+Berisikan Niat-niat Sholat Wajib, Bacaan Sholat dan Ayat Kursi
 
 # Tutorial Build with Visual Studio Code
 * https://youtu.be/-GFtOEAO5kg (Part 1)
