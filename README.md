@@ -1,5 +1,11 @@
 ## Membuat Aplikasi Bacaan Sholat dengan Flutter
 
+# Tutorial Build with Visual Studio Code
+https://youtu.be/-GFtOEAO5kg (Part 1)
+https://youtu.be/bolzAZyD8Qg (Part 2)
+https://youtu.be/cXi-1KJwJdg (Part 3)
+https://youtu.be/g8ame1KPhcI (Part 4)
+
 <img src="screenshot/bacaansholat_azharrivaldi.png" data-canonical-src="screenshot/bacaansholat_azharrivaldi.png" style="max-width:100%;">
 
 Sebelumnya sudah pernah saya buat dengan versi Native Kotlin, bisa liat tutorial dan demo aplikasinya disini https://github.com/AzharRivaldi/BacaanSholat
